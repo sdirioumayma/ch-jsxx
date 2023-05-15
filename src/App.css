@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  margin-top: 150px;
+}
+img{
+  clip-path:ellipse(50% 50%);
+  width: 300px;
+}
+h1{
+  color:rgb(231, 19, 203);
+  text-decoration-style : solid;
+}
